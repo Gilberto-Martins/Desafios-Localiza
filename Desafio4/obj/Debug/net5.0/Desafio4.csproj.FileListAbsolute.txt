@@ -1,0 +1,16 @@
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\Desafio4.exe
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\Desafio4.deps.json
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.json
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.dev.json
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\Desafio4.dll
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\ref\Desafio4.dll
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\bin\Debug\net5.0\Desafio4.pdb
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.csproj.AssemblyReference.cache
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfoInputs.cache
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfo.cs
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.dll
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\ref\Desafio4.dll
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.pdb
+C:\Users\gilbe\Documents\Localiza\Desafios-Localiza\Desafio4\obj\Debug\net5.0\Desafio4.genruntimeconfig.cache
